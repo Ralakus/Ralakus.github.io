@@ -6,7 +6,7 @@
 
 header
 {
-    background-image:      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Background.jpg);
+    background-image:      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(Background.png);
     height:                100vh;
     background-size:       cover;
     background-position:   center;
@@ -16,7 +16,7 @@ header
 {
     float: right;
     list-style: none;
-    margin-top: 30px;
+    margin-top: 1%;
 }
 
 .main-nav li
@@ -30,7 +30,7 @@ header
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto", sans-serif;
-    font-size: 15px;
+    font-size: 100%;
 }
 
 .main-nav li.active a
@@ -45,7 +45,7 @@ header
 
 .logo img
 {
-    width:  150px;
+    width:  10%;
     height: auto;
     float:  left;
 }
@@ -57,32 +57,31 @@ body
 
 .row
 {
-    max-width: 1200px;
+    max-width: 75%;
     margin: auto;
 }
 
 .title
 {
-    height: 0px;
     position: absolute;
-    width: 1200px;
-    margin-left: 0px;
-    margin-top: 0px;
+    height: 0px;
+    width: 100%;
 }
 
 h1
 {
     color: white;
     text-transform: uppercase;
-    font-size: 72px;
+    font-size: 750%;
     text-align: center;
-    margin-top: 275px;
+    margin-top: 15%;
 }
 
 .button
 {
-    margin-left: 30px;
-    margin-left: 440px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .btn
@@ -92,7 +91,7 @@ h1
     color: white;
     text-decoration: none;
     margin-right: 5px;
-    font-size: 13px;
+    font-size: 90%;
     text-transform: uppercase;
 }
 
