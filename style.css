@@ -12,53 +12,9 @@ header
     background-position:   center;
 }
 
-.main-nav
-{
-    float: right;
-    list-style: none;
-    margin-top: 1%;
-}
-
-.main-nav li
-{
-    display: inline-block;
-}
-
-.main-nav li a
-{
-    color: white;
-    text-decoration: none;
-    padding: 5px 20px;
-    font-family: "Roboto", sans-serif;
-    font-size: 100%;
-}
-
-.main-nav li.active a
-{
-    border: 1px solid white;
-}
-
-.main-nav li a:hover
-{
-    border: 1px solid white;
-}
-
-.logo img
-{
-    width:  10%;
-    height: auto;
-    float:  left;
-}
-
 body
 {
     font-family: monospace;
-}
-
-.row
-{
-    max-width: 75%;
-    margin: auto;
 }
 
 .title
@@ -101,14 +57,8 @@ h1
     font-family: "Roboto", sans-serif;
 }
 
-.btn-two
-{
-    background-color: darkorange;
-    font-family: "Roboto", sans-serif;
-}
-
 .btn:hover
 {
     background-color: orangered;
-    transition: add 0.5s ease-in;
+    transition: all 0.5s ease-in;
 }
