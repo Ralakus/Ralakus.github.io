@@ -1,7 +1,7 @@
 ArrayList<Chain> chains;
 int[] dirs = new int[4];
 void setup() {
-  size(1920, 720);
+  size(1920, 640);
   background(0, 0);
   chains = new ArrayList<Chain>();
   dirs[0] = -2;
@@ -54,9 +54,9 @@ public class Chain {
     }
   }
   public Chain(int mx, int my) {
-    r = random(245) + 10;
-    g = random(245) + 10;
-    b = random(245) + 10;
+    r = random(255) - 10;
+    g = random(255) - 10;
+    b = random(255) - 10;
     x = mx;
     y = my;
   }
@@ -102,6 +102,6 @@ public class Segment {
     this.y2=y2;
   }
 }
-void mouseClicked() {
+/*void mouseClicked() {
   chains.add(new Chain(mouseX,mouseY));
-}
+}*/
