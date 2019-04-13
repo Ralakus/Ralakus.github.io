@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louisa TSA</title>
+    <link>https://ralakus.github.io/</link>
+    <description>Recent content on Louisa TSA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 10:20:39 -0400</lastBuildDate>
+    
+	<atom:link href="https://ralakus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CTE</title>
+      <link>https://ralakus.github.io/pages/cte/</link>
+      <pubDate>Sat, 13 Apr 2019 10:20:39 -0400</pubDate>
+      
+      <guid>https://ralakus.github.io/pages/cte/</guid>
+      <description>CTE courses Independent Living Grades 9-12, 1 Credit  Students in Independent Living build life skills focusing on establishing positive relationships, balancing work and family life, investigating careers, making responsible consumer choices, applying nutrition and wellness knowledge, and studying child development and parenting.
+Nutrition &amp;amp; Wellness Grades 9-12, 1 Credit  Students enrolled in Nutrition and Wellness focus on understanding wellness, investigating principles of nutrition, using science and technology in food management, ensuring food safety planning menus and preparing food, and exploring careers in the field of nutrition and wellness.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ralakus.github.io/pages/about/</link>
+      <pubDate>Sat, 13 Apr 2019 10:20:09 -0400</pubDate>
+      
+      <guid>https://ralakus.github.io/pages/about/</guid>
+      <description>About This is the about page</description>
+    </item>
+    
+  </channel>
+</rss>

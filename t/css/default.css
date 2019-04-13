@@ -15,6 +15,13 @@
     z-index: 1;
 }
 
+.parallelogram img {
+    position: absolute;
+    top: 62.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .background
 {
     margin: 0;
@@ -80,4 +87,43 @@ canvas
     width:  10%;
     height: auto;
     float:  left;
+}
+
+
+.content {
+
+    position: absolute;
+    height: 0px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.content h1 {
+    color: black;
+    font-size: 300%;
+    margin-top:  7.5%;
+}
+
+.content h2 {
+    color: black;
+    font-size: 200%;
+    margin-top:  1%;
+}
+
+.content pre code {
+    color: black;
+    font-size: 120%;
+    margin-top:  1%;
+    
+}
+
+.content p {
+
+    color: black;
+    font-size: 120%;
+    margin-top:  0.5%;
+
+    margin-left: 20%;
+    margin-right: 20%;
 }
