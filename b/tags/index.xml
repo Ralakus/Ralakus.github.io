@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Louisa TSA</title>
-    <link>https://ralakus.github.io/tags/</link>
-    <description>Recent content in Tags on Louisa TSA</description>
+    <title>Tags on T S A</title>
+    <link>https://ralakus.github.io/b/tags/</link>
+    <description>Recent content in Tags on T S A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ralakus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ralakus.github.io/b/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

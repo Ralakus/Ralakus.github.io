@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ralakus.github.io/</loc>
+    <loc>https://ralakus.github.io/b/pages/music/</loc>
+    <lastmod>2019-04-14T11:44:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ralakus.github.io/b/pages/</loc>
     <lastmod>2019-04-14T11:44:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ralakus.github.io/pages/music/</loc>
-    <lastmod>2019-04-14T11:44:58-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ralakus.github.io/pages/</loc>
+    <loc>https://ralakus.github.io/b/</loc>
     <lastmod>2019-04-14T11:44:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ralakus.github.io/pages/about/</loc>
+    <loc>https://ralakus.github.io/b/pages/about/</loc>
     <lastmod>2019-04-13T10:20:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ralakus.github.io/categories/</loc>
+    <loc>https://ralakus.github.io/b/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ralakus.github.io/tags/</loc>
+    <loc>https://ralakus.github.io/b/tags/</loc>
     <priority>0</priority>
   </url>
   
