@@ -1,6 +1,81 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="Refresh" content="0; url=https://ralakus.github.io/t/" />
-  </head>
+<head>
+    <title>Game</title>
+    <style>
+
+header
+{
+    background-image:      linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(background.jpg);
+    height:                100vh;
+    background-size:       cover;
+    background-position:   center;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+.title
+{
+    position: absolute;
+    height: 0px;
+    width: 100%;
+}
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 750%;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.button_container
+{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 90%;
+    text-transform: uppercase;
+    margin-top: auto;
+    display: inline-block;
+    background-color: grey;
+    font-family: "Roboto", sans-serif;
+}
+
+    </style>
+</head>
+<body>
+    <header>
+
+        <div class="title">
+            <h1>Game</h1>
+
+            <div class="button_container">
+                <div class="button">
+                    <a href="game.zip" download class="btn btn-one"> Download </a>
+                </div>
+
+                <div class="button">
+                    <a href="docs.pdf" download class="btn btn-two"> Documents </a>
+                </div>
+            </div>
+
+        </div>
+
+    </header>
+</body>
 </html>
